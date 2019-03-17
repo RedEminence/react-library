@@ -5,6 +5,5 @@ https://redeminence.github.io/react-library/
 
 # Screenshot
 
-<kbd>
-  <img src="img/react-library-screenshot.png" alt="React Library Screenshot">
-</kbd>
+<img src="img/react-library-screenshot.png" alt="React Library Screenshot">
+
